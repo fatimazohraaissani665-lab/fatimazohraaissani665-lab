@@ -38,15 +38,18 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,dart" />
 </p>
 
-### Frameworks & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,vscode,git,github,figma" />
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
 
 ### Design Skills
 
-* UI Design
+* UI Design## 🚀 Frameworks & Tools
+
 * UX Fundamentals
 * Graphic Design
 * Branding
