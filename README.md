@@ -1,127 +1,61 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Fatima Zahra Aissani
+Large Banner
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Web+Developer;Graphic+Designer;Flutter+Learner;Future+UI%2FUX+Designer" />
-</p>
+Fatima Zahra Aissani
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatimazohraaissani665-lab&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
+Computer Science Student
+Web Developer
+Graphic Designer
 
----
+Typing Animation
 
-# 👩‍💻 About Me
+━━━━━━━━━━━━
 
-🎓 Computer Science Student
+🎨 Design + Development
 
-💡 Passionate about Technology, Design, and Problem Solving
+I create beautiful interfaces
+and functional applications.
 
-🌐 Building Modern Web Applications
+━━━━━━━━━━━━
 
-🎨 Graphic Designer with a Creative Mind
+💻 Development Skills
 
-📱 Learning Flutter for Cross-Platform Mobile Development
+HTML
+CSS
+JavaScript
+PHP
+Python
+Flutter
 
-🎯 Currently Exploring UI/UX Design Principles
+━━━━━━━━━━━━
 
-🐍 Python Enthusiast
+🎨 Design Skills
 
-🚀 Working toward becoming a Full-Stack & Mobile Developer
+UI Design
+UX Design
+Graphic Design
+Figma
 
----
+━━━━━━━━━━━━
 
-# 🛠️ Tech Stack
+📱 Current Journey
 
+Learning Flutter
+Learning UI/UX
 
+━━━━━━━━━━━━
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
-![Git](https://img.## 💻 Languages
+📊 Stats
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+🏆 Trophies
 
+━━━━━━━━━━━━
 
-### Design Skills
+🌟 Featured Work
 
-* UI Design## 🚀 Frameworks & Tools
+Web Projects
+Design Projects
+Flutter Projects
 
-* UX Fundamentals
-* Graphic Design
-* Branding
-* Visual Communication
+━━━━━━━━━━━━
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatimazohraaissani665-lab&show_icons=true&theme=radical&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazohraaissani665-lab&layout=compact&theme=radical"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimazohraaissani665-lab&theme=radical"/>
-</p>
-
----
-
-# 🌱 Currently Learning
-
-✔ Flutter Development
-
-✔ Mobile UI Design
-
-✔ UI/UX Design
-
-✔ Software Engineering Practices
-
-✔ Advanced Web Development
-
----
-
-# 🎯 2026 Roadmap
-
-* Build 10+ professional projects
-* Publish Flutter applications
-* Create a personal portfolio website
-* Contribute to Open Source
-* Strengthen UI/UX Design Skills
-* Master Full-Stack Development
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fatimazohraaissani665-lab&theme=algolia&row=1&column=6"/>
-</p>
-
----
-
-# 💬 Favorite Quote
-
-> "The beautiful thing about learning is that nobody can take it away from you."
-
----
-
-# 🤝 Let's Connect
-
-📍 Algeria
-
-💻 GitHub:
-https://github.com/fatimazohraaissani665-lab
-
-⭐ If you like my work, feel free to follow me and explore my repositories.
-
+📫 Contact
