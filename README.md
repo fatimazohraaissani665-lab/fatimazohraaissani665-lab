@@ -60,6 +60,7 @@
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/fatimazohraaissani665-lab
+- Email: https://email.com/fatimazohraaissani665@gmail.com
 
 ---
 
