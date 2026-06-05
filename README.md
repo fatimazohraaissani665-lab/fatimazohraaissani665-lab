@@ -23,7 +23,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![pyton](https://img.shields.io/badge/pyton-F7DF1E?style=for-the-badge&logo=pyton&logoColor=black)
-[php](https://img.shields.io/badge/php-F7DF1E?style=for-the-badge&logo=php&logoColor=black)
+![php](https://img.shields.io/badge/php-F7DF1E?style=for-the-badge&logo=php&logoColor=black)
 
 
 ### Frameworks & Libraries
