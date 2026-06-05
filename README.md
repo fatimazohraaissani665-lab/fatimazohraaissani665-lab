@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Fatima Zohra Aissani
-<p align="center">
-  <img src="https://pin.it/7EvM3M3ja" width="100%">
-</p>
+
 ## 💫 About Me
 
 🎓 Computer Science Student
