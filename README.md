@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Fatima Zohra Aissani
-![Banner](images/banner.jfif)
+![Banner](images/banner.png)
 ## 💫 About Me
 
 🎓 Computer Science Student
