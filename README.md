@@ -24,6 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![pyton](https://img.shields.io/badge/pyton-F7DF1E?style=for-the-badge&logo=pyton&logoColor=black)
 ![php](https://img.shields.io/badge/php-F7DF1E?style=for-the-badge&logo=php&logoColor=black)
+![sql](https://img.shields.io/badge/sql-F7DF1E?style=for-the-badge&logo=sql&logoColor=black)
 
 
 ### Frameworks & Libraries
