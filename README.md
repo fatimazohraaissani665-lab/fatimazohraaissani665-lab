@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Fatima Zohra Aissani
-
-
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
 ## 💫 About Me
 
 🎓 Computer Science Student
