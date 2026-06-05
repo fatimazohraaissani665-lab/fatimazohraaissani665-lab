@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Fatima Zohra Aissani
 <p align="center">
-  <img src="banner(3).png" width="100%">
+  <img src="banner (3).png" width="100%">
 </p>
 ## 💫 About Me
 
