@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Fatima Zohra Aissani
-![Banner](images/banner.png)
+![Banner](images/Code & Mate banner.png)
 
 ## 💫 About Me
 
